@@ -48,6 +48,7 @@ The development team ([www.sideways.earth](http://www.sideways.earth)) is availa
 * In-person full-day or two-day facilitation of the game as a LARP with 20-50 participants.
 * Development of an MVP for deployment within communities. The development effort would include a launch with the LARP in the place of deployment as a user experience testing and conceptual onboarding.
 
+To talk to us about any of these options, please contact grace@voiceofhumanity.one
 
 # Sufficiency Economy Game 
 
@@ -308,4 +309,4 @@ The image above shows a community profile. The interactions, needs and offers re
 
 ## Summary
 
-Sideways.earth currently has connections with several communities willing to start the initial process and is seeking funding for further developments.
+Sideways.earth currently has connections with several communities willing to start the initial process and is seeking funding for further developments. Reach out to us for more information at grace@sideways.earth
